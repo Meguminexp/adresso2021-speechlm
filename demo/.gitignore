@@ -1,0 +1,14 @@
+demo_recording.wav
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large model files (downloaded separately)
+models/roberta-base/
+models/whisper-medium/
+
+# Training data
+models/*.npz
+models/*.pkl
+!models/classifier/*.pkl
+models/finetuned_fold_*.pt

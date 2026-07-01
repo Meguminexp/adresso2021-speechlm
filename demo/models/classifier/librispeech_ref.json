@@ -1,0 +1,15 @@
+{
+  "word_duration_mean": 0.32,
+  "word_duration_std": 0.18,
+  "word_duration_median": 0.28,
+  "interval_mean": 0.15,
+  "interval_std": 0.20,
+  "pause_mean": 0.35,
+  "pause_std": 0.25,
+  "pause_median": 0.28,
+  "words_per_sec_mean": 2.8,
+  "words_per_sec_std": 0.5,
+  "pause_rate_mean": 8.2,
+  "pause_rate_std": 3.5,
+  "duration_by_length": {}
+}

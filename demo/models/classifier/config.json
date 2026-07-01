@@ -1,0 +1,5 @@
+{
+  "features": "Seg-filter RoBERTa(768d) 5-fold IW",
+  "test_acc": 0.8591549295774648,
+  "test_f1": 0.8571428571428571
+}
